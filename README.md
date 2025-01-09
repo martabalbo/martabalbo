@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hey there!
+I'm Marta Balbo, a BSc graduate in Mathematics.
 
 <!--
 **martabalbo/martabalbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+and I wrote my thesis about Riemann's Bilinear Relations, a set of conditions in algebraic geometry which establishes a relationship between the topology and the complex structure of a Riemann surface.
+
 -->
